@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="UpdLmts">
+    <file>dnOFF.png</file>
+    <file>dnON.png</file>
+    <file>upOFF.png</file>
+    <file>upON.png</file>
+  </qresource>
+</RCC>

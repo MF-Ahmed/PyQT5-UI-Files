@@ -1,0 +1,8 @@
+31-May-20 12:49:21 - [Info] : Temperature2 Reporting Disabled
+31-May-20 12:49:22 - [Info] : Temperature1 Reporting Disabled
+31-May-20 12:49:22 - [Info] : Pressure2 Reporting Disabled
+31-May-20 12:49:23 - [Info] : Pressure2 Reporting Disabled
+31-May-20 12:49:25 - [Info] : Temperature2 Reporting Enabled
+31-May-20 12:49:25 - [Info] : Temperature1 Reporting Enabled
+31-May-20 12:49:26 - [Info] : Pressure1 Reporting Enabled
+31-May-20 12:49:27 - [Info] : Pressure2 Reporting Enabled
