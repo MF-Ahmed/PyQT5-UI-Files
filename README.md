@@ -1,5 +1,5 @@
-# Air_Reglator_Controller
-PyQ5 Based UI for industrial Air Regulator controller
+# PyQt5 Reference GUI Creation Fies
+These files can be used for craetion your custiom UI using PyQt5.
 
 ## Description
 
