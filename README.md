@@ -8,7 +8,8 @@ An in-depth paragraph about your project and overview of use.
 ## Getting Started
 
 ### Dependencies
-* Python 3.6 or later, Arduino IDE for Arduino projects
+* Python 3.6 or later, Arduino IDE for Arduino projects, Docklight for serial port communication
+* ``` https://docklight.de/ ```
 * Windows ``` pip install pyqt5 ``` for installing pyqt5
 * Ubunto Linux/Debian ``` sudo apt-get install python3-pyqt5 ```
 * ```pip install pyqt-tools```
