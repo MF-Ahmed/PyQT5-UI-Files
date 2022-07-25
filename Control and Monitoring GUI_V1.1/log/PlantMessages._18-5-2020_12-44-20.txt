@@ -1,0 +1,8 @@
+31-May-20 12:44:20 - [Info] : Pressure2 Reporting Disabled
+31-May-20 12:44:26 - [CMD] : Heater1 OFF
+31-May-20 12:44:27 - [Status] : Heater1 OFF
+31-May-20 12:44:27 - [CMD] : Heater2 OFF
+31-May-20 12:44:28 - [Status] : Heater2 OFF
+31-May-20 12:44:28 - [CMD] : Pump1 OFF
+31-May-20 12:44:29 - [Status] : Pump1 OFF
+31-May-20 12:44:29 - [CMD] : Pump2 OFF

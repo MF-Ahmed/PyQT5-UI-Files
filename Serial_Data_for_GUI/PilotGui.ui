@@ -17,8 +17,8 @@
    <widget class="QTabWidget" name="tabWidget">
     <property name="geometry">
      <rect>
-      <x>0</x>
-      <y>40</y>
+      <x>40</x>
+      <y>20</y>
       <width>811</width>
       <height>681</height>
      </rect>
@@ -447,7 +447,7 @@
      <x>0</x>
      <y>0</y>
      <width>815</width>
-     <height>21</height>
+     <height>26</height>
     </rect>
    </property>
    <widget class="QMenu" name="menuFile">

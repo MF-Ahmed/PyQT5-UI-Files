@@ -1,0 +1,16 @@
+31-May-20 12:49:09 - [CMD] : Heater2 ON
+31-May-20 12:49:09 - [Status] : Heater1 ON
+31-May-20 12:49:09 - [Status] : Pressure2 is at Warning
+31-May-20 12:49:09 - [Status] : Heater2 ON
+31-May-20 12:49:10 - [CMD] : Pump1 ON
+31-May-20 12:49:11 - [Status] : Pump1 ON
+31-May-20 12:49:11 - [CMD] : Pump2 ON
+31-May-20 12:49:11 - [Status] : Pump2 ON
+31-May-20 12:49:12 - [CMD] : Temperature1 Limits Read
+31-May-20 12:49:14 - [CMD] : Temperature2 Limits Read
+31-May-20 12:49:15 - [CMD] : Temperature2 Limits Updated
+31-May-20 12:49:15 - [CMD] : Temperature1 Limits Updated
+31-May-20 12:49:16 - [CMD] : Pressure1 Limits Read
+31-May-20 12:49:17 - [CMD] : Pressure1  Limits Updated
+31-May-20 12:49:17 - [CMD] : Pressure2 Limits Read
+31-May-20 12:49:18 - [CMD] : Pressure2  Limits Updated

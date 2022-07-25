@@ -1,4 +1,0 @@
-31-May-20 16:14:15 - [Status] : Heater1 OFF
-31-May-20 16:14:15 - [Status] : Heater2 OFF
-31-May-20 16:14:15 - [Status] : Pump1 OFF
-31-May-20 16:14:15 - [Status] : Pump2 OFF

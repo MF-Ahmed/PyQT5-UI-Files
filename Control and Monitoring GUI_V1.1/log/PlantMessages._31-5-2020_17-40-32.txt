@@ -1,0 +1,16 @@
+31-May-20 17:40:32 - [Status] : Heater1 OFF
+31-May-20 17:40:33 - [Status] : Heater2 OFF
+31-May-20 17:40:33 - [Status] : Pump1 OFF
+31-May-20 17:40:33 - [Status] : Pump2 OFF
+31-May-20 17:40:33 - [Info] : Temperature2 Reporting Enabled
+31-May-20 17:40:33 - [Status] : Temperature2 is at Normal
+31-May-20 17:40:34 - [Info] : Temperature1 Reporting Enabled
+31-May-20 17:40:35 - [Status] : Temperature1 is at Warning
+31-May-20 17:40:35 - [Info] : Pressure1 Reporting Enabled
+31-May-20 17:40:35 - [Status] : Pressure1 is at Normal
+31-May-20 17:40:36 - [Info] : Pressure2 Reporting Enabled
+31-May-20 17:40:36 - [Status] : Pressure2 is at Normal
+31-May-20 17:40:38 - [CMD] : Temperature1 Limits Read
+31-May-20 17:40:40 - [CMD] : Temperature1 Limits Updated
+31-May-20 17:40:41 - [CMD] : Temperature2 Limits Read
+31-May-20 17:40:41 - [CMD] : Temperature2 Limits Updated

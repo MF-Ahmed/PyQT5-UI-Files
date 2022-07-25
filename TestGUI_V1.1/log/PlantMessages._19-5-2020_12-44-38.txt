@@ -1,6 +1,0 @@
-31-May-20 12:44:30 - [Status] : Pump2 OFF
-31-May-20 12:44:35 - [Info] : Temperature2 Reporting Enabled
-31-May-20 12:44:36 - [Info] : Temperature1 Reporting Enabled
-31-May-20 12:44:37 - [Info] : Pressure1 Reporting Enabled
-31-May-20 12:44:37 - [Info] : Pressure2 Reporting Enabled
-31-May-20 12:44:37 - [Status] : Pressure2 is at Normal
