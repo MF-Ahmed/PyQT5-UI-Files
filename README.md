@@ -18,9 +18,7 @@ An in-depth paragraph about your project and overview of use.
 * ```python -m pip install -U matplotlib```
 * ```pip install drawnow```
 * The default IDE is VSCode to install it on Ubuntu/Debian ```sudo snap install --classic code```
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* All the scripts have been tested on Windows 10 and Raspberry Pi2/3 rspbian OS.
 
 ### Installing
 
