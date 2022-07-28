@@ -34,6 +34,10 @@ code blocks for commands
 ```
 ### Screenshots
 
+![](https://github.com/MF-Ahmed/PyQT5-UI-Files/blob/main/Screenshots/Screenshot_1.bmp)
+![](https://github.com/MF-Ahmed/PyQT5-UI-Files/blob/main/Screenshots/Screenshot_2.bmp)
+![](https://github.com/MF-Ahmed/PyQT5-UI-Files/blob/main/Screenshots/Screenshot_3.bmp)
+
 
 
 ## Help
